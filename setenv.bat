@@ -1,0 +1,1 @@
+set PATH=%PATH%;C:\Program Files\gs\gs9.21\bin
